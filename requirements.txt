@@ -1,0 +1,19 @@
+# Example requirements for Mind Chain
+# Add or remove as needed for real usage.
+
+# Basic Python packages (comment/uncomment as needed):
+# requests==2.26.0
+# click==8.0.3
+# python-dotenv==0.19.2
+
+# Logging
+loguru==0.5.3
+
+# Testing
+pytest==7.2.0
+unittest-xml-reporting==3.0.4
+
+# AI frameworks (examples, if needed):
+# torch==1.13.1
+# tensorflow==2.11.0
+# scikit-learn==1.2.0
